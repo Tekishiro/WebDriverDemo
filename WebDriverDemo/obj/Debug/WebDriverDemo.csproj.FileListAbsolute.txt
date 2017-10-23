@@ -6,3 +6,12 @@ E:\DotNet\WebDriverDemo\WebDriverDemo\bin\Debug\nunit.framework.xml
 E:\DotNet\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.xml
 E:\DotNet\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.dll
 E:\DotNet\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.pdb
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.dll
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.pdb
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\nunit.framework.dll
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.dll
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\nunit.framework.xml
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.xml
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.csprojResolveAssemblyReference.cache
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.dll
+E:\DotNet\Repositories\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.pdb

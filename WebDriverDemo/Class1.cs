@@ -16,7 +16,10 @@ namespace WebDriverDemo
         public void oneCanOpenGoogle()
         {
             IWebDriver chrome = new ChromeDriver();
-            chrome.Navigate().GoToUrl("https://github.com/login");
+            chrome.Navigate().GoToUrl("https://github.com");
+
+            IWebElement loginLink = chrome.FindElement(By.XPath("//a[@href='/login']"));
+            loginLink.Click();
 
             IWebElement inputLogin = chrome.FindElement(By.XPath("//input[@id='login_field']"));
             inputLogin.SendKeys("testautomationuser");
